@@ -10,3 +10,5 @@ Este es un proyecto de convertidor de monedas que obtiene información de tasas 
 
 -Utiliza la biblioteca de Google para leer datos JSON.
 
+- API utilizada: https://www.exchangerate-api.com/
+
